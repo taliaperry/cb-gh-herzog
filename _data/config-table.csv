@@ -1,5 +1,6 @@
 field,display_name
 title,Title
+author,Author
 date,Date
-description,Description
-subject,Subjects
+publisher,Publisher
+identifier,Call Number
