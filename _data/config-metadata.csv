@@ -1,6 +1,6 @@
 field,display_name,browse_link,external_link
 title,Title,
-author,Author,true
+author,Author,
 publisher,Publisher,
 date,Date Published,
 source,Source,,true
