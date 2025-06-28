@@ -27,7 +27,7 @@ tagline: a collection of sci-fi covers
 # this description might appear in search result lists, keep around 160 characters max
 description: "Demo test site using the CollectionBuilder-GH template."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CMU Libraries
+author: Carnegie Mellon University Libraries
 
 ##########
 # COLLECTION SETTINGS
