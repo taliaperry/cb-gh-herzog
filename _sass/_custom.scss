@@ -3,7 +3,8 @@
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
 
-card-img-top {
+.card-img-top {
     height:200px;
     object-fit:cover;
+    object-position:top;
 }
