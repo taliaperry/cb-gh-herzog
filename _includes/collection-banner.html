@@ -23,7 +23,7 @@
 
 
             
-            <h1 class="display-4 specialfont">{{ site.title }}</h1>
+            <h1 class="display-4 specialfontbanner">{{ site.title }}</h1>
            
         </div>
         {% unless site.data.theme.featured-image contains '/' %}
@@ -36,7 +36,7 @@
 <div class="container">
     <div class="row align-items-center">
         <div id="title" class="{% if site.organization-logo-banner %}col-md-9{% else %}col-12{% endif %}">
-            <h1 class="mt-2"><a class="text-dark" href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>	 
+            <h1 class="mt-2 specialfont"><a class="text-dark" href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>	 
             {% if site.tagline %}<p>{{ site.tagline }}</p>{% endif %}
         </div>
         {% if site.organization-logo-banner %}
